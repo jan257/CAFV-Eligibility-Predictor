@@ -59,3 +59,53 @@ Built using:
 ```bash
 git clone https://github.com/your-username/ev-cafv-streamlit.git
 cd ev-cafv-streamlit
+```
+
+### 2. Install Dependencies
+
+```bash
+pip install -r requirements.txt
+```
+### 3. Launch the App
+
+```bash
+streamlit run app.py
+```
+---
+
+## 📁 File Structure
+
+```
+├── app.py                     ← Streamlit frontend
+├── model/
+│   └── cafv_eligibility_model.pkl  ← Trained ML pipeline
+├── requirements.txt           ← Dependencies
+└── README.md
+```
+---
+
+## 📚 Data Source
+
+- Washington State Electric Vehicle Population
+[Data Catalog Link](https://catalog.data.gov/dataset/electric-vehicle-population-data)
+
+---
+
+## 🙌 Acknowledgements
+
+- Data from WA State Department of Licensing
+- Streamlit for quick deployment
+- scikit-learn for powerful pipelines
+
+---
+
+## 👩‍💻 Author
+
+**Jahnavi P**  
+📍 Bangalore, India  
+🔗 [LinkedIn](https://www.linkedin.com/in/jahnavi-p-a68788233) 
+
+---
+
+
+
