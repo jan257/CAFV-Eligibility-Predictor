@@ -11,7 +11,7 @@ Built using:
 
 ## 📊 Demo
 
-👉 **Live App:** [https://your-username.streamlit.app](https://your-username.streamlit.app)
+👉 **Live App:** [https://your-username.streamlit.app](https://cafv-eligibility-predictor-2025.streamlit.app/)
 
 ![app-screenshot](https://upload.wikimedia.org/wikipedia/commons/f/f4/Electric_car_charging_symbol.svg)
 
